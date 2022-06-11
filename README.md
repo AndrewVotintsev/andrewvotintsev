@@ -1,7 +1,7 @@
 ## Hi there 👋, i'm a software developer.
 
 
-### Landuages and Tools
+### Languages and Tools
 ![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
 ![JS](https://img.shields.io/badge/-JS-000?style=for-the-badge&logo=javascript&logoColor=FFC83D)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=Laravel)
